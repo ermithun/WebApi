@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\DigiCore.Common\DigiCore.Common.csproj" />
+    <ProjectReference Include="..\..\Common\DigiCore.Entities\DigiCore.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
